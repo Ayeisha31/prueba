@@ -2,7 +2,7 @@
 ``` python
 def hola():
     print("¡Hola, mundo!")```
-#hola
+*hola*
 ```python
 def hola():
     print("¡Hola, mundo!")
