@@ -1,6 +1,6 @@
 # prueba
-``` python
-def hola():
+    python
+    def hola():
     print("¡Hola, mundo!")```
 *hola*
 ```python
