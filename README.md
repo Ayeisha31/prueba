@@ -1,7 +1,7 @@
 # prueba
-´´´ python
+``` python
 def hola():
-    print("¡Hola, mundo!")´´´
+    print("¡Hola, mundo!")```
 #hola
 ```python
 def hola():
